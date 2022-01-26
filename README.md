@@ -1,4 +1,4 @@
-# Mundo 3D
+# Mundo-3D
 
 Animación del planeta tierra mostrando todos los continentes. Esta recreación se debe al uso de la fantástica librería de animaciones threeJS, con una ligera variante para react, react three fiber 3D. Y también se añaden conocimientos de física para poder recrear tal animación.
 
