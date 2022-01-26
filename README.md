@@ -6,7 +6,7 @@ Animación del planeta tierra mostrando todos los continentes. Esta recreación 
 
 <p align="center">
 
-<img src='https://github.com/StefanoQuiroz/MyOwnChat/blob/main/gif/mundo3d.gif' width='700px'>
+<img src='https://github.com/StefanoQuiroz/Mundo-3D/blob/main/gif/mundo3d.gif' width='700px'>
 
 </p>
 
